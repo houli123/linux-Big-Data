@@ -1,0 +1,39 @@
+在家目录下建立考生目录，如liuzhen（这里必须要使用自己本人的名字），通过查看目录位置命令保证当前
+目录是在自己账号的家目录中，注liuzhen为考生目录！
+
+1、在/liuzhen目录下建立pc目录
+
+2、在liuzhen/pc目录下完成以下目录结构创建
+
+	ceshi、ceshi/ceshi1、ceshi/ceshi1/ceshi1-1
+
+3、在liuzhen/pc/目录下分别建立以下文件
+
+	1   2    3   
+       touch 1(建立一个空文件命令)   
+
+4、将liuzhen/pc/1这个文件复制到ceshi/ceshi1目录下
+
+5、将liuzhen/pc/2这个文件移动到ceshi目录下
+
+6、访问目录到liuzhen/pc/ceshi目录下
+
+7、在liuzhen/pc/ceshi/目录下复制liuzhen/pc目录下的4文件到当前目录下
+
+8、一个命令完成建立liuzhen/pc/test/test1/test2目录操作
+
+9、一个命令完成删除liuzhen/pc/test/test1/test2目录操作
+
+10、一个命令完成建立liuzhen/pc/class/class1/目录操作，并在此建立1和2两个文件
+
+11、将目录切换到liuzhen/pc下，将class做成档案文件（要求打包过程显示，新档案文件名为student，保存在当前目录下）
+
+12、递归删除class目录
+
+13、将student.tar.gz解压缩（要求在当前目录下解档）
+
+14、查看student目录所占用的系统空间数
+
+15、设置当前系统时间为2022年3月30日
+
+作业提交全部以班级+姓名+学号后三位，以WORD文档格式提交，要求每步以截图为证！
