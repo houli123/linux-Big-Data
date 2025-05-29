@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <a href="https://jaywcjlove.github.io/linux-command">
     <img src="./template/img/banner.svg?sanitize=true">
   </a>
